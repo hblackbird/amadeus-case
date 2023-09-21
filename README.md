@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Preview Link
 
-In the project directory, you can run:
+[Live Preview](https://amadeus-case.web.app/)
 
 ### `npm start`
 
